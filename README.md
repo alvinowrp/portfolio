@@ -43,4 +43,24 @@ Hello everyone, here is my Portfolio as a Data Analyst, please check it out :)
 
 # Code Example:
 1. [Mutual Fund Investment](https://github.com/alvinowrp/portfolio/blob/main/mutual_fund_investment.ipynb)
-2. [NYC Property Analysis]()
+2. [NYC Property Analysis](https://github.com/alvinowrp/portfolio/blob/main/nyc_property_analysis.ipynb)
+
+# Data Visualization Tableau:
+- Connect and combine/join datasets
+- Data formatting
+- Visualization
+- Calculated Field
+- Interactive dashboard
+
+# Example:
+1. [Loan Performance Dashboard in USA](https://public.tableau.com/app/profile/alvino.wirapratama/viz/TLSIM/Dashboard1)
+2. [Steam Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/W10W11FSDA-Alvino-Wirapratamarev_17007397413810/Dashboard)
+3. [IDM JABAR Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/IDMJabar/Dashboard4)
+4. [NYC Property Sales Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/GFPbaru/Dashboard1)
+5. [AirBnB Overview Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/Milestone2_16691986818490/Dashboard3)
+6. [Covid-19 Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/Advance_16692870979190/Dashboard1)
+7. [Unilever Candle Chart](https://public.tableau.com/app/profile/alvino.wirapratama/viz/UNVR/Sheet1)
+
+# Full Project Based Analytics
+1. [NYC Property Analysis](https://drive.google.com/file/d/1__afbKezxCPkjbPKDBFuTOpX0Kj9XUp4/view?usp=sharing)
+2. [Crediu Annual Report 2022](https://drive.google.com/file/d/1V5dJ02l7KutHiqSwzXxc5OkMQvrCYAt8/view?usp=sharing)
