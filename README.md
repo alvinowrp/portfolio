@@ -14,7 +14,7 @@ Hello everyone, here is my Portfolio as a Data Analyst, please check it out :)
 - Correlation & Regression
 
 # Deck:
-[Data Cleaning & Processing in Google Spreadsheet](https://drive.google.com/drive/folders/1t7-ANADswJvJsVtPuCiqdtEtFrPLO8XG)
+[Data Cleaning & Processing in Google Spreadsheet](https://drive.google.com/file/d/1CxHR48e0flRa5eAk-kSC6C3W4lfgnt2p/view?usp=sharing)
 
 
 # SQL Skills Sets:
