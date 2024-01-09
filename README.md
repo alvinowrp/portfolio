@@ -39,7 +39,8 @@ Hello everyone, here is my Portfolio as a Data Analyst, please check it out :)
 - Descriptive statistics
 - Exploratory Data Analysis
 - Visualization using seaborn & matplotlib
-- Cluster analysis using k-means method & sillhouette method
+- Cluster analysis using k-means method & silhouette method
 
 # Code Example:
--[Mutual Fund Investment]()
+1. [Mutual Fund Investment](https://github.com/alvinowrp/portfolio/blob/main/mutual_fund_investment.ipynb)
+2. [NYC Property Analysis]()
