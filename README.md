@@ -8,7 +8,7 @@ Hello everyone, here is my Portfolio as a Data Analyst, please check it out :)
 - Pivot Table
 - Descriptive Statistics
 - Data Visualization
-- Gathering Insights[Uploading mutual_fund_investment.ipynb…]()
+- Gathering Insights
 
 - Statistical Measurement
 - Correlation & Regression
