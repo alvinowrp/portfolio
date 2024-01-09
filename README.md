@@ -9,7 +9,6 @@ Hello everyone, here is my Portfolio as a Data Analyst, please check it out :)
 - Descriptive Statistics
 - Data Visualization
 - Gathering Insights
-
 - Statistical Measurement
 - Correlation & Regression
 
