@@ -61,5 +61,5 @@ Hello everyone, here is my Portfolio as a Data Analyst, please check it out :)
 7. [Unilever Candle Chart](https://public.tableau.com/app/profile/alvino.wirapratama/viz/UNVR/Sheet1)
 
 # Full Project Based Analytics
-1. [NYC Property Analysis](https://drive.google.com/file/d/1__afbKezxCPkjbPKDBFuTOpX0Kj9XUp4/view?usp=sharing)
+1. [NYC Property Analysis](https://drive.google.com/file/d/1BXqYNet0zgdjg_UpqY-fFXwrLe12YU2Z/view?usp=sharing)
 2. [Crediu Annual Report 2022](https://drive.google.com/file/d/1V5dJ02l7KutHiqSwzXxc5OkMQvrCYAt8/view?usp=sharing)
