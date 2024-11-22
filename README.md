@@ -52,7 +52,7 @@ Hello everyone, here is my Portfolio as a Data Analyst, please check it out :)
 - Interactive dashboard
 
 ### Example:
-1. [Loan Performance Dashboard in USA](https://public.tableau.com/app/profile/alvino.wirapratama/viz/TLSIM/Dashboard1)
+1. [Loan Performance Dashboard in USA](https://public.tableau.com/app/profile/alvino.wirapratama/viz/TLSIMCOMPLETED/Dashboard1)
 2. [Steam Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/W10W11FSDA-Alvino-Wirapratamarev_17007397413810/Dashboard)
 3. [IDM JABAR Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/IDMJabar/Dashboard4)
 4. [NYC Property Sales Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/GFPbaru/Dashboard1)
