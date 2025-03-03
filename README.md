@@ -43,6 +43,7 @@ Hello everyone, here is my Portfolio as a Data Analyst, please check it out :)
 ### Code Example:
 1. [Mutual Fund Investment](https://github.com/alvinowrp/portfolio/blob/main/mutual_fund_investment.ipynb)
 2. [NYC Property Analysis](https://github.com/alvinowrp/portfolio/blob/main/nyc_property_analysis.ipynb)
+3. [Loan Approval Risk Analysis](https://github.com/alvinowrp/portfolio/blob/main/Loan_Approval_Risk_Analysis.ipynb)
 
 # Data Visualization Tableau:
 - Connect and combine/join datasets
