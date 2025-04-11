@@ -2,7 +2,7 @@
 Hello everyone, here is my Portfolio as a Data Analyst. Please check it out :)
 
 
-# Understanding Business Problems
+# Understanding Business Problems:
 - Identify the problem for human resources case
 
 ### Deck:
