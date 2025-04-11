@@ -3,7 +3,7 @@ Hello everyone, here is my Portfolio as a Data Analyst. Please check it out :)
 
 
 # Understanding Business Problems
-- identify the problem for human resources case
+- Identify the problem for human resources case
 
 ### Deck:
 [Human Resource Analysis](https://docs.google.com/presentation/d/1i0xdP2XlUngQu-PBsEF89JdrdcTu4HIRSf-qMzQoowE/edit#slide=id.gc6f9e470d_0_0)
