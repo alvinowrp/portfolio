@@ -35,7 +35,7 @@ Hello everyone, here is my Portfolio as a Data Analyst. Please check it out :)
 
 ### Code Example:
 1. [Google BigQuery](https://console.cloud.google.com/bigquery?sq=1005814389844:eb240364773b4393a547869d2d6c98c1&project=absolute-text-356808&ws=!1m4!1m3!8m2!1s1005814389844!2seb240364773b4393a547869d2d6c98c1)
-2. [SQL Deck](https://docs.google.com/presentation/d/1auyfgQJd2t7aoXYs9JHif8pslNQdCIfH9zR_hEqF6A8/edit#slide=id.gc6f9e470d_0_0)
+2. [SQL Deck](https://drive.google.com/file/d/1fKk7ai1dLYxuSdMJiUM8oPC5ecMnEtFI/view?usp=sharing)
 
 # Python Skills Sets:
 - Removing irrelevant values
