@@ -68,7 +68,7 @@ Hello everyone, here is my Portfolio as a Data Analyst. Please check it out :)
 3. [IDM JABAR Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/IDMJabar/Dashboard4)
 4. [NYC Property Sales Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/GFPbaru/Dashboard1)
 5. [AirBnB Overview Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/Milestone2_16691986818490/Dashboard3)
-6. [Covid-19 Vaccine Tracker Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/Advance_16692870979190/Dashboard1)
+6. [Covid-19 Vaccine Tracker Dashboard](https://public.tableau.com/app/profile/alvino.wirapratama/viz/Advance_16692870979190/Dashboard2)
 7. [Unilever Candle Chart](https://public.tableau.com/app/profile/alvino.wirapratama/viz/UNVR/Sheet1)
 
 # Full Project Based Analytics
